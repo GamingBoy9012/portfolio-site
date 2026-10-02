@@ -23,7 +23,7 @@ function About() {
       </p>
 
       <a
-        href="/resume/resume.pdf"
+        href="/resume/Resume_Dhruvin.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="button"
